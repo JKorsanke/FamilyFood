@@ -18,9 +18,15 @@ final class WeekKeyTests: XCTestCase {
         XCTAssertEqual(key.advanced(by: 1).advanced(by: -1), key)
     }
 
+    /// A wall-clock time in the app's calendar. Week boundaries are local, so a test about
+    /// them must not bake in a UTC offset — it would only pass in that one timezone.
+    private func local(_ year: Int, _ month: Int, _ day: Int, hour: Int) -> Date {
+        Calendar.mondayFirst.date(from: DateComponents(year: year, month: month, day: day, hour: hour))!
+    }
+
     func test_all_days_of_one_week_share_the_same_key() {
-        let monday = WeekKey(containing: date("2026-06-08T00:00:00+02:00"))
-        let sunday = WeekKey(containing: date("2026-06-14T23:00:00+02:00"))
+        let monday = WeekKey(containing: local(2026, 6, 8, hour: 0))     // Monday, first minute
+        let sunday = WeekKey(containing: local(2026, 6, 14, hour: 23))   // Sunday, late evening
         XCTAssertEqual(monday, sunday)
         XCTAssertLessThan(monday, monday.advanced(by: 1))
     }

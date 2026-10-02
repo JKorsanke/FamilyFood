@@ -26,4 +26,7 @@ if [ -z "${FF_DESTINATION:-}" ]; then
 fi
 
 xcodegen generate
-xcodebuild test -project FamilyFood.xcodeproj -scheme FamilyFood -destination "$FF_DESTINATION" "$@"
+# -collect-test-diagnostics never: after a failing run xcodebuild otherwise waits up to ten
+# minutes for simulator diagnostics before it reports the result.
+xcodebuild test -project FamilyFood.xcodeproj -scheme FamilyFood -destination "$FF_DESTINATION" \
+    -collect-test-diagnostics never "$@"
