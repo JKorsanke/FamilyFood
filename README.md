@@ -56,7 +56,7 @@ publish structured recipe data, and builds the shopping list.
 
 ## Requirements
 
-- A Mac with **Xcode 27** (the project is developed on Xcode 27; the app targets iOS 17 and later)
+- A Mac with **Xcode 26 or later** (developed on Xcode 27; continuous integration builds and tests on both; the app targets iOS 17 and later)
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen#installing) — the Xcode project is generated,
   not committed
 

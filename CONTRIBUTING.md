@@ -8,7 +8,7 @@ FamilyFood is a one-person project maintained in spare time, so a review can tak
 
 You need:
 
-- A Mac with Xcode. The project is developed with Xcode 27; the deployment target is iOS 17.
+- A Mac with Xcode 26 or later. The project is developed with Xcode 27 and CI tests on both; the deployment target is iOS 17.
 - An iPhone simulator. If none is installed, add one in Xcode under Settings ▸ Components.
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen#installing), for example `brew install xcodegen`.
 
