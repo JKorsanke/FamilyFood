@@ -1,0 +1,23 @@
+// Signing identity for all targets. project.yml reads this file for every configuration.
+//
+// The defaults below build, run and test in the iOS Simulator with no further setup.
+// To run on a device, copy Signing.local.example.xcconfig to Signing.local.xcconfig
+// (gitignored) and set your own team and bundle id prefix there. Never edit this file
+// with personal values.
+
+// Apple Developer team id. Empty is fine for the simulator.
+FF_DEVELOPMENT_TEAM =
+
+// Reverse-DNS prefix for the bundle identifiers: <prefix>.familyfood, <prefix>.familyfood.ShareExtension
+FF_BUNDLE_ID_PREFIX = org.example
+
+// App Group shared by the app and the share extension. Used by both entitlements files
+// and exposed to the code through the FFAppGroupID Info.plist key.
+FF_APP_GROUP = group.$(FF_BUNDLE_ID_PREFIX).familyfood
+
+// Name of the app icon set. The repository ships a placeholder icon (`AppIcon`); forks
+// replace it with their own artwork under the same name.
+FF_APP_ICON_NAME = AppIcon
+
+// Local overrides — optional, not committed.
+#include? "Signing.local.xcconfig"

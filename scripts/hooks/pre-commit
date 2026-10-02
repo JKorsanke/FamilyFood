@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+# FamilyFood pre-commit guard — keeps build artifacts and API keys out of git.
+#
+# Rejects the commit when
+#   - a staged path is an .ipa, or lies inside an .app / .xcarchive bundle. A packaged
+#     build is a zip: whatever it bundles gets into history past `git grep`.
+#   - a staged added line contains an Anthropic API key.
+#
+# Enable (once per clone):   git config core.hooksPath scripts/hooks
+set -euo pipefail
+
+# Real keys run ~100 characters; the 40-character floor lets doc placeholders through.
+key_pattern='sk-ant-[A-Za-z0-9_-]{40,}'
+fail=0
+
+while IFS= read -r -d '' path; do
+    case "$path" in
+        *.ipa|*.app/*|*.xcarchive/*)
+            echo "pre-commit: build artifact staged — $path" >&2
+            fail=1
+            continue ;;
+    esac
+    # No `grep -q`: an early exit would SIGPIPE `git diff` and trip pipefail.
+    if git diff --cached -U0 --no-color --no-ext-diff -- "$path" \
+        | grep -E "^\+.*$key_pattern" >/dev/null; then
+        echo "pre-commit: Anthropic API key in staged changes — $path" >&2
+        fail=1
+    fi
+done < <(git diff --cached --name-only --diff-filter=ACMR -z)
+
+if [ "$fail" -ne 0 ]; then
+    echo "pre-commit: commit rejected. Unstage with: git restore --staged <path>" >&2
+    echo "pre-commit: builds live outside git; API keys are entered in the app's Settings, never committed." >&2
+    exit 1
+fi

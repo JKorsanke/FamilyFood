@@ -1,0 +1,9 @@
+// Copy this file to Signing.local.xcconfig (gitignored), fill in your values,
+// then run `xcodegen generate`. Only needed for device builds.
+
+// Your Apple Developer team id (10 characters), e.g. from developer.apple.com → Membership.
+FF_DEVELOPMENT_TEAM = ABCDE12345
+
+// A bundle id prefix you own. The App Group becomes group.<prefix>.familyfood and must be
+// registered for your team (Xcode does this with automatic signing).
+FF_BUNDLE_ID_PREFIX = com.yourname

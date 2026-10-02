@@ -1,0 +1,98 @@
+name: FamilyFood
+
+options:
+  deploymentTarget:
+    iOS: "17.0"
+
+# Signing identity (team, bundle id prefix, app group) lives in Config/Signing.xcconfig.
+# The defaults build and test in the simulator as-is; for a device build, copy
+# Config/Signing.local.example.xcconfig to Config/Signing.local.xcconfig and edit it.
+configFiles:
+  Debug: Config/Signing.xcconfig
+  Release: Config/Signing.xcconfig
+
+targets:
+  FamilyFood:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - path: FamilyFood
+      # Optional, untracked: private seed data (recipes.local.json + RecipeImages/) and original
+      # artwork (Artwork.xcassets) that take precedence over the sample recipes and the
+      # placeholder art when present. See RecipeSeed and Artwork.
+      - path: LocalOverlay
+        optional: true
+    dependencies:
+      - target: FamilyFoodShareExtension
+    scheme:
+      testTargets:
+        - FamilyFoodTests
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: $(FF_BUNDLE_ID_PREFIX).familyfood
+        SWIFT_VERSION: 5.0
+        MARKETING_VERSION: "0.1"
+        CURRENT_PROJECT_VERSION: "1"
+        DEVELOPMENT_TEAM: $(FF_DEVELOPMENT_TEAM)
+        ENABLE_USER_SCRIPT_SANDBOXING: NO
+        CODE_SIGN_ENTITLEMENTS: FamilyFood/FamilyFood.entitlements
+        ASSETCATALOG_COMPILER_APPICON_NAME: $(FF_APP_ICON_NAME)
+    info:
+      path: FamilyFood/Info.plist
+      properties:
+        CFBundleDisplayName: FamilyFood
+        FFAppGroupID: $(FF_APP_GROUP)
+        NSCameraUsageDescription: "Zum Importieren des Kita-Speiseplans wird Ihre Kamera benötigt."
+        NSPhotoLibraryUsageDescription: "Zum Importieren des Kita-Speiseplans wird der Zugriff auf Ihre Fotos benötigt."
+        UILaunchScreen: {}
+        UIUserInterfaceStyle: Light   # the palette has no dark variants
+        UIAppFonts:
+          - Inter.ttf
+          - InterTight.ttf
+          - Gaegu-Bold.ttf
+
+  FamilyFoodShareExtension:
+    type: app-extension
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - path: ShareExtension
+      - path: FamilyFood/Services/SharedImportInbox.swift
+      - path: FamilyFood/Services/ShareImportReceiver.swift
+      - path: FamilyFood/Utilities/Log.swift
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: $(FF_BUNDLE_ID_PREFIX).familyfood.ShareExtension
+        SWIFT_VERSION: 5.0
+        MARKETING_VERSION: "0.1"
+        CURRENT_PROJECT_VERSION: "1"
+        DEVELOPMENT_TEAM: $(FF_DEVELOPMENT_TEAM)
+        ENABLE_USER_SCRIPT_SANDBOXING: NO
+        CODE_SIGN_ENTITLEMENTS: ShareExtension/ShareExtension.entitlements
+    info:
+      path: ShareExtension/Info.plist
+      properties:
+        CFBundleDisplayName: FamilyFood
+        FFAppGroupID: $(FF_APP_GROUP)
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.share-services
+          NSExtensionPrincipalClass: $(PRODUCT_MODULE_NAME).ShareViewController
+          NSExtensionAttributes:
+            NSExtensionActivationRule:
+              NSExtensionActivationSupportsFileWithMaxCount: 1
+              NSExtensionActivationSupportsWebURLWithMaxCount: 1
+
+  FamilyFoodTests:
+    type: bundle.unit-test
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - path: FamilyFoodTests
+    dependencies:
+      - target: FamilyFood
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: $(FF_BUNDLE_ID_PREFIX).familyfood.tests
+        SWIFT_VERSION: 5.0
+        GENERATE_INFOPLIST_FILE: YES

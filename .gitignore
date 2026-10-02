@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Xcode — the project is generated from project.yml by XcodeGen (`xcodegen generate`), never committed
+FamilyFood.xcodeproj/
+xcuserdata/
+DerivedData/
+build/
+*.xccheckout
+*.moved-aside
+
+# Local signing identity (team, bundle id prefix) — see Config/Signing.local.example.xcconfig
+Config/Signing.local.xcconfig
+
+# Local seed data and artwork that must not be redistributed — see docs/ARCHITECTURE.md
+LocalOverlay/
+
+# Packaged builds never go into git — a build is a zip that can carry secrets past `git grep`
+*.ipa
+*.xcarchive/
+
+# Claude Code local overrides (per-user permission allowlist)
+.claude/settings.local.json

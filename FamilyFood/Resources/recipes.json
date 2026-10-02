@@ -1,0 +1,1577 @@
+[
+  {
+    "id": 1,
+    "title": "Tomaten-Linsen-Spaghetti",
+    "summary": "Rote Linsen kochen direkt in der Tomatensauce mit – das macht sie sämig und bringt Eiweiß auf den Teller.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "10",
+    "cook_time": "15",
+    "total_time": "25",
+    "main_ingredient": "Pasta",
+    "diet_style": "vegan",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "400",
+            "unit": "g",
+            "name": "Spaghetti",
+            "notes": ""
+          },
+          {
+            "amount": "100",
+            "unit": "g",
+            "name": "rote Linsen",
+            "notes": ""
+          },
+          {
+            "amount": "500",
+            "unit": "ml",
+            "name": "passierte Tomaten",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Zwiebel",
+            "notes": "fein gewürfelt"
+          },
+          {
+            "amount": "1",
+            "unit": "Zehe",
+            "name": "Knoblauch",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "EL",
+            "name": "Olivenöl",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "TL",
+            "name": "Oregano",
+            "notes": "getrocknet"
+          },
+          {
+            "amount": "1",
+            "unit": "Prise",
+            "name": "Salz",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Nudeln mit Erbsen-Pesto",
+    "summary": "Ein leuchtend grünes Pesto aus Erbsen und Basilikum, das in der Zeit fertig ist, in der die Nudeln kochen.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "10",
+    "cook_time": "10",
+    "total_time": "20",
+    "main_ingredient": "Pasta",
+    "diet_style": "vegan",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "400",
+            "unit": "g",
+            "name": "Penne",
+            "notes": ""
+          },
+          {
+            "amount": "300",
+            "unit": "g",
+            "name": "Erbsen",
+            "notes": "tiefgekühlt"
+          },
+          {
+            "amount": "50",
+            "unit": "g",
+            "name": "Sonnenblumenkerne",
+            "notes": "geröstet"
+          },
+          {
+            "amount": "1",
+            "unit": "Bund",
+            "name": "Basilikum",
+            "notes": ""
+          },
+          {
+            "amount": "4",
+            "unit": "EL",
+            "name": "Olivenöl",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "EL",
+            "name": "Zitronensaft",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "Prise",
+            "name": "Salz",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Bunter Gemüse-Bratreis",
+    "summary": "Reis vom Vortag wird mit knackigem Gemüse in der Pfanne gebraten – ein schnelles Essen für Tage, an denen der Kühlschrank leer wirkt.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "10",
+    "cook_time": "15",
+    "total_time": "25",
+    "main_ingredient": "Reis",
+    "diet_style": "vegan",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "300",
+            "unit": "g",
+            "name": "Basmatireis",
+            "notes": "gekocht, am besten vom Vortag"
+          },
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Karotten",
+            "notes": "in feinen Stiften"
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Paprika",
+            "notes": "rot"
+          },
+          {
+            "amount": "150",
+            "unit": "g",
+            "name": "Erbsen",
+            "notes": "tiefgekühlt"
+          },
+          {
+            "amount": "3",
+            "unit": "",
+            "name": "Frühlingszwiebeln",
+            "notes": ""
+          },
+          {
+            "amount": "3",
+            "unit": "EL",
+            "name": "Sojasauce",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "EL",
+            "name": "Rapsöl",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Tomatenreis mit Mais und Bohnen",
+    "summary": "Alles gart zusammen in einem Topf: Reis, Tomaten, Mais und Kidneybohnen.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "5",
+    "cook_time": "25",
+    "total_time": "30",
+    "main_ingredient": "Reis",
+    "diet_style": "vegan",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "300",
+            "unit": "g",
+            "name": "Langkornreis",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "Dose",
+            "name": "Kidneybohnen",
+            "notes": "abgetropft"
+          },
+          {
+            "amount": "1",
+            "unit": "Dose",
+            "name": "Mais",
+            "notes": "abgetropft"
+          },
+          {
+            "amount": "1",
+            "unit": "Dose",
+            "name": "stückige Tomaten",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Zwiebel",
+            "notes": ""
+          },
+          {
+            "amount": "500",
+            "unit": "ml",
+            "name": "Gemüsebrühe",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "TL",
+            "name": "Paprikapulver",
+            "notes": "edelsüß"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Kartoffel-Paprika-Pfanne",
+    "summary": "Goldbraun gebratene Kartoffelwürfel mit Paprika und frischer Petersilie.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "10",
+    "cook_time": "20",
+    "total_time": "30",
+    "main_ingredient": "Kartoffeln",
+    "diet_style": "vegan",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "800",
+            "unit": "g",
+            "name": "Kartoffeln",
+            "notes": "festkochend, klein gewürfelt"
+          },
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Paprika",
+            "notes": "rot und gelb"
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Zwiebel",
+            "notes": ""
+          },
+          {
+            "amount": "3",
+            "unit": "EL",
+            "name": "Rapsöl",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "TL",
+            "name": "Paprikapulver",
+            "notes": "edelsüß"
+          },
+          {
+            "amount": "0,5",
+            "unit": "Bund",
+            "name": "Petersilie",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "Prise",
+            "name": "Salz",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Cremige Kartoffelsuppe",
+    "summary": "Eine milde, sämige Suppe aus Kartoffeln, Karotten und Lauch.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "10",
+    "cook_time": "20",
+    "total_time": "30",
+    "main_ingredient": "Kartoffeln",
+    "diet_style": "vegan",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "700",
+            "unit": "g",
+            "name": "Kartoffeln",
+            "notes": "mehligkochend"
+          },
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Karotten",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "Stange",
+            "name": "Lauch",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "l",
+            "name": "Gemüsebrühe",
+            "notes": ""
+          },
+          {
+            "amount": "100",
+            "unit": "ml",
+            "name": "Hafercreme",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "Prise",
+            "name": "Muskatnuss",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Kichererbsen-Spinat-Curry",
+    "summary": "Ein mildes Curry mit Kokosmilch, das auch Kindern schmeckt, die es nicht scharf mögen.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "5",
+    "cook_time": "20",
+    "total_time": "25",
+    "main_ingredient": "Hülsenfrüchte",
+    "diet_style": "vegan",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "2",
+            "unit": "Dosen",
+            "name": "Kichererbsen",
+            "notes": "abgetropft"
+          },
+          {
+            "amount": "200",
+            "unit": "g",
+            "name": "Blattspinat",
+            "notes": "frisch oder tiefgekühlt"
+          },
+          {
+            "amount": "400",
+            "unit": "ml",
+            "name": "Kokosmilch",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "Dose",
+            "name": "stückige Tomaten",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Zwiebel",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "TL",
+            "name": "Currypulver",
+            "notes": "mild"
+          },
+          {
+            "amount": "1",
+            "unit": "EL",
+            "name": "Rapsöl",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Rote-Linsen-Suppe mit Karotten",
+    "summary": "Linsen und Karotten zerfallen beim Kochen fast von selbst – am Ende wird nur noch kurz püriert.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "10",
+    "cook_time": "20",
+    "total_time": "30",
+    "main_ingredient": "Hülsenfrüchte",
+    "diet_style": "vegan",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "250",
+            "unit": "g",
+            "name": "rote Linsen",
+            "notes": ""
+          },
+          {
+            "amount": "3",
+            "unit": "",
+            "name": "Karotten",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Zwiebel",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "l",
+            "name": "Gemüsebrühe",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "TL",
+            "name": "Kreuzkümmel",
+            "notes": "gemahlen"
+          },
+          {
+            "amount": "1",
+            "unit": "EL",
+            "name": "Zitronensaft",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "EL",
+            "name": "Olivenöl",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Knuspertofu mit Brokkoli",
+    "summary": "In Stärke gewendeter Tofu wird außen knusprig und bekommt zum Schluss eine süß-salzige Glasur.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "10",
+    "cook_time": "20",
+    "total_time": "30",
+    "main_ingredient": "Tofu",
+    "diet_style": "vegan",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "400",
+            "unit": "g",
+            "name": "Tofu",
+            "notes": "natur, gewürfelt"
+          },
+          {
+            "amount": "500",
+            "unit": "g",
+            "name": "Brokkoli",
+            "notes": "in Röschen"
+          },
+          {
+            "amount": "2",
+            "unit": "EL",
+            "name": "Speisestärke",
+            "notes": ""
+          },
+          {
+            "amount": "3",
+            "unit": "EL",
+            "name": "Sojasauce",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "EL",
+            "name": "Ahornsirup",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "EL",
+            "name": "Sesam",
+            "notes": ""
+          },
+          {
+            "amount": "3",
+            "unit": "EL",
+            "name": "Rapsöl",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Tofu-Gemüse-Pfanne",
+    "summary": "Tofu, Zucchini, Paprika und Karotten – kurz und heiß gebraten, mit etwas Ingwer.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "10",
+    "cook_time": "15",
+    "total_time": "25",
+    "main_ingredient": "Tofu",
+    "diet_style": "vegan",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "400",
+            "unit": "g",
+            "name": "Tofu",
+            "notes": "natur"
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Zucchini",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Paprika",
+            "notes": "rot"
+          },
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Karotten",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "EL",
+            "name": "Sojasauce",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "TL",
+            "name": "Ingwer",
+            "notes": "frisch gerieben"
+          },
+          {
+            "amount": "2",
+            "unit": "EL",
+            "name": "Rapsöl",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Bunte Gemüsesuppe",
+    "summary": "Eine klare Suppe mit viel Gemüse und kleinen Suppennudeln.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "10",
+    "cook_time": "20",
+    "total_time": "30",
+    "main_ingredient": "Gemüse",
+    "diet_style": "vegan",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "3",
+            "unit": "",
+            "name": "Karotten",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Kohlrabi",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Kartoffeln",
+            "notes": ""
+          },
+          {
+            "amount": "150",
+            "unit": "g",
+            "name": "Erbsen",
+            "notes": "tiefgekühlt"
+          },
+          {
+            "amount": "1,2",
+            "unit": "l",
+            "name": "Gemüsebrühe",
+            "notes": ""
+          },
+          {
+            "amount": "80",
+            "unit": "g",
+            "name": "Suppennudeln",
+            "notes": ""
+          },
+          {
+            "amount": "0,5",
+            "unit": "Bund",
+            "name": "Petersilie",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Ofengemüse mit Kräuterdip",
+    "summary": "Ein Blech voll geröstetem Gemüse, dazu ein kühler Dip mit Schnittlauch.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "10",
+    "cook_time": "30",
+    "total_time": "40",
+    "main_ingredient": "Gemüse",
+    "diet_style": "vegan",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Süßkartoffel",
+            "notes": "groß"
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Zucchini",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Paprika",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "rote Zwiebel",
+            "notes": ""
+          },
+          {
+            "amount": "3",
+            "unit": "EL",
+            "name": "Olivenöl",
+            "notes": ""
+          },
+          {
+            "amount": "250",
+            "unit": "g",
+            "name": "Sojajoghurt",
+            "notes": "ungesüßt"
+          },
+          {
+            "amount": "0,5",
+            "unit": "Bund",
+            "name": "Schnittlauch",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Zucchini-Mais-Puffer",
+    "summary": "Kleine Puffer aus geraspelter Zucchini und Mais, außen knusprig, innen saftig.",
+    "servings": "4",
+    "servings_unit": "Puffer",
+    "prep_time": "10",
+    "cook_time": "15",
+    "total_time": "25",
+    "main_ingredient": "Gemüse",
+    "diet_style": "vegetarian",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Zucchini",
+            "notes": "grob geraspelt"
+          },
+          {
+            "amount": "1",
+            "unit": "Dose",
+            "name": "Mais",
+            "notes": "abgetropft"
+          },
+          {
+            "amount": "100",
+            "unit": "g",
+            "name": "Mehl",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Eier",
+            "notes": ""
+          },
+          {
+            "amount": "80",
+            "unit": "g",
+            "name": "Käse",
+            "notes": "gerieben"
+          },
+          {
+            "amount": "3",
+            "unit": "EL",
+            "name": "Rapsöl",
+            "notes": "zum Braten"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Bohnen-Mais-Wraps",
+    "summary": "Zum Selberfüllen am Tisch: warme Tortillas mit Bohnen, Mais, Avocado und Tomaten.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "15",
+    "cook_time": "5",
+    "total_time": "20",
+    "main_ingredient": "Brot/Teig",
+    "diet_style": "vegan",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "8",
+            "unit": "",
+            "name": "Weizentortillas",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "Dose",
+            "name": "Kidneybohnen",
+            "notes": "abgetropft"
+          },
+          {
+            "amount": "1",
+            "unit": "Dose",
+            "name": "Mais",
+            "notes": "abgetropft"
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Avocado",
+            "notes": "reif"
+          },
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Tomaten",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "EL",
+            "name": "Limettensaft",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "Prise",
+            "name": "Salz",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Schnelle Pfannenpizza",
+    "summary": "Der Teig kommt ohne Hefe aus und wird direkt in der Pfanne gebacken.",
+    "servings": "2",
+    "servings_unit": "Pizzen",
+    "prep_time": "15",
+    "cook_time": "15",
+    "total_time": "30",
+    "main_ingredient": "Brot/Teig",
+    "diet_style": "vegetarian",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "300",
+            "unit": "g",
+            "name": "Mehl",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "TL",
+            "name": "Backpulver",
+            "notes": ""
+          },
+          {
+            "amount": "180",
+            "unit": "ml",
+            "name": "Wasser",
+            "notes": ""
+          },
+          {
+            "amount": "150",
+            "unit": "ml",
+            "name": "passierte Tomaten",
+            "notes": ""
+          },
+          {
+            "amount": "125",
+            "unit": "g",
+            "name": "Mozzarella",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Paprika",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "TL",
+            "name": "Oregano",
+            "notes": "getrocknet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Rührei mit Tomaten und Schnittlauch",
+    "summary": "Lockeres Rührei mit frischen Tomaten, dazu eine Scheibe Vollkornbrot.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "5",
+    "cook_time": "10",
+    "total_time": "15",
+    "main_ingredient": "Ei",
+    "diet_style": "vegetarian",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "6",
+            "unit": "",
+            "name": "Eier",
+            "notes": ""
+          },
+          {
+            "amount": "3",
+            "unit": "EL",
+            "name": "Milch",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Tomaten",
+            "notes": "gewürfelt"
+          },
+          {
+            "amount": "0,5",
+            "unit": "Bund",
+            "name": "Schnittlauch",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "EL",
+            "name": "Butter",
+            "notes": ""
+          },
+          {
+            "amount": "4",
+            "unit": "Scheiben",
+            "name": "Vollkornbrot",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Gemüse-Frittata",
+    "summary": "Ein dickes Omelett aus der Pfanne mit Zucchini, Paprika und Feta – schmeckt warm und kalt.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "10",
+    "cook_time": "15",
+    "total_time": "25",
+    "main_ingredient": "Ei",
+    "diet_style": "vegetarian",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "6",
+            "unit": "",
+            "name": "Eier",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Zucchini",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Paprika",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Frühlingszwiebeln",
+            "notes": ""
+          },
+          {
+            "amount": "100",
+            "unit": "g",
+            "name": "Feta",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "EL",
+            "name": "Olivenöl",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Käsespätzle mit Röstzwiebeln",
+    "summary": "Spätzle, geschmolzener Bergkäse und goldbraune Zwiebeln – ein Klassiker für kalte Tage.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "10",
+    "cook_time": "20",
+    "total_time": "30",
+    "main_ingredient": "Pasta",
+    "diet_style": "vegetarian",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "500",
+            "unit": "g",
+            "name": "Spätzle",
+            "notes": "aus dem Kühlregal"
+          },
+          {
+            "amount": "200",
+            "unit": "g",
+            "name": "Bergkäse",
+            "notes": "gerieben"
+          },
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Zwiebeln",
+            "notes": "in Ringen"
+          },
+          {
+            "amount": "2",
+            "unit": "EL",
+            "name": "Butter",
+            "notes": ""
+          },
+          {
+            "amount": "0,5",
+            "unit": "Bund",
+            "name": "Schnittlauch",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Kartoffelpuffer mit Apfelmus",
+    "summary": "Knusprige Puffer aus geriebenen Kartoffeln, klassisch mit Apfelmus serviert.",
+    "servings": "4",
+    "servings_unit": "Puffer",
+    "prep_time": "15",
+    "cook_time": "15",
+    "total_time": "30",
+    "main_ingredient": "Kartoffeln",
+    "diet_style": "vegetarian",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "1",
+            "unit": "kg",
+            "name": "Kartoffeln",
+            "notes": "mehligkochend"
+          },
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Eier",
+            "notes": ""
+          },
+          {
+            "amount": "3",
+            "unit": "EL",
+            "name": "Mehl",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Zwiebel",
+            "notes": ""
+          },
+          {
+            "amount": "4",
+            "unit": "EL",
+            "name": "Rapsöl",
+            "notes": "zum Braten"
+          },
+          {
+            "amount": "400",
+            "unit": "g",
+            "name": "Apfelmus",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Milchreis mit Zimtäpfeln",
+    "summary": "Langsam gerührter Milchreis mit in Butter geschwenkten Apfelstücken.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "5",
+    "cook_time": "30",
+    "total_time": "35",
+    "main_ingredient": "Reis",
+    "diet_style": "vegetarian",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "250",
+            "unit": "g",
+            "name": "Milchreis",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "l",
+            "name": "Milch",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Äpfel",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "TL",
+            "name": "Zimt",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "EL",
+            "name": "Zucker",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "EL",
+            "name": "Butter",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Gemüse-Lasagne",
+    "summary": "Schichten aus Zucchini, Karotten, Tomatensauce und einer hellen Sauce – gut vorzubereiten.",
+    "servings": "6",
+    "servings_unit": "Portionen",
+    "prep_time": "20",
+    "cook_time": "40",
+    "total_time": "60",
+    "main_ingredient": "Pasta",
+    "diet_style": "vegetarian",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "12",
+            "unit": "",
+            "name": "Lasagneplatten",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Zucchini",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Karotten",
+            "notes": ""
+          },
+          {
+            "amount": "700",
+            "unit": "ml",
+            "name": "passierte Tomaten",
+            "notes": ""
+          },
+          {
+            "amount": "250",
+            "unit": "g",
+            "name": "Mozzarella",
+            "notes": ""
+          },
+          {
+            "amount": "500",
+            "unit": "ml",
+            "name": "Milch",
+            "notes": ""
+          },
+          {
+            "amount": "40",
+            "unit": "g",
+            "name": "Mehl",
+            "notes": ""
+          },
+          {
+            "amount": "40",
+            "unit": "g",
+            "name": "Butter",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Lachs mit Kartoffelstampf und Erbsen",
+    "summary": "Gebratener Lachs auf grob gestampften Kartoffeln mit Erbsen.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "10",
+    "cook_time": "20",
+    "total_time": "30",
+    "main_ingredient": "Fisch",
+    "diet_style": "omnivore",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "4",
+            "unit": "",
+            "name": "Lachsfilets",
+            "notes": "je etwa 125 g"
+          },
+          {
+            "amount": "800",
+            "unit": "g",
+            "name": "Kartoffeln",
+            "notes": "mehligkochend"
+          },
+          {
+            "amount": "300",
+            "unit": "g",
+            "name": "Erbsen",
+            "notes": "tiefgekühlt"
+          },
+          {
+            "amount": "100",
+            "unit": "ml",
+            "name": "Milch",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "EL",
+            "name": "Butter",
+            "notes": ""
+          },
+          {
+            "amount": "0,5",
+            "unit": "",
+            "name": "Zitrone",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Seelachs in Tomatensauce",
+    "summary": "Der Fisch gart sanft in einer einfachen Tomatensauce und bleibt dabei saftig.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "5",
+    "cook_time": "20",
+    "total_time": "25",
+    "main_ingredient": "Fisch",
+    "diet_style": "omnivore",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "500",
+            "unit": "g",
+            "name": "Seelachsfilet",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "Dose",
+            "name": "stückige Tomaten",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Zwiebel",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "Zehe",
+            "name": "Knoblauch",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "EL",
+            "name": "Olivenöl",
+            "notes": ""
+          },
+          {
+            "amount": "0,5",
+            "unit": "Bund",
+            "name": "Petersilie",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Hähnchen-Gemüse-Pfanne",
+    "summary": "Hähnchenstreifen mit Brokkoli, Karotten und Paprika aus einer Pfanne.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "10",
+    "cook_time": "15",
+    "total_time": "25",
+    "main_ingredient": "Fleisch",
+    "diet_style": "omnivore",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "400",
+            "unit": "g",
+            "name": "Hähnchenbrustfilet",
+            "notes": "in Streifen"
+          },
+          {
+            "amount": "300",
+            "unit": "g",
+            "name": "Brokkoli",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "",
+            "name": "Karotten",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Paprika",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "EL",
+            "name": "Sojasauce",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "EL",
+            "name": "Rapsöl",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Hackbällchen in Tomatensauce",
+    "summary": "Kleine Hackbällchen, die direkt in der Tomatensauce gar ziehen.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "15",
+    "cook_time": "20",
+    "total_time": "35",
+    "main_ingredient": "Fleisch",
+    "diet_style": "omnivore",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "500",
+            "unit": "g",
+            "name": "Rinderhackfleisch",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Ei",
+            "notes": ""
+          },
+          {
+            "amount": "4",
+            "unit": "EL",
+            "name": "Semmelbrösel",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Zwiebel",
+            "notes": "fein gewürfelt"
+          },
+          {
+            "amount": "500",
+            "unit": "ml",
+            "name": "passierte Tomaten",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "TL",
+            "name": "Oregano",
+            "notes": "getrocknet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Couscous-Salat mit Gurke und Minze",
+    "summary": "Couscous quillt in heißem Wasser, während das Gemüse geschnitten wird – fertig in einer Viertelstunde.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "15",
+    "cook_time": "5",
+    "total_time": "20",
+    "main_ingredient": "Sonstiges",
+    "diet_style": "vegan",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "250",
+            "unit": "g",
+            "name": "Couscous",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "",
+            "name": "Gurke",
+            "notes": ""
+          },
+          {
+            "amount": "3",
+            "unit": "",
+            "name": "Tomaten",
+            "notes": ""
+          },
+          {
+            "amount": "1",
+            "unit": "Dose",
+            "name": "Kichererbsen",
+            "notes": "abgetropft"
+          },
+          {
+            "amount": "3",
+            "unit": "EL",
+            "name": "Zitronensaft",
+            "notes": ""
+          },
+          {
+            "amount": "3",
+            "unit": "EL",
+            "name": "Olivenöl",
+            "notes": ""
+          },
+          {
+            "amount": "5",
+            "unit": "Zweige",
+            "name": "Minze",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Grießbrei mit Beeren",
+    "summary": "Warmer Grießbrei mit einer schnellen Beerensauce – süßes Hauptgericht oder Nachtisch.",
+    "servings": "4",
+    "servings_unit": "Portionen",
+    "prep_time": "5",
+    "cook_time": "10",
+    "total_time": "15",
+    "main_ingredient": "Sonstiges",
+    "diet_style": "vegetarian",
+    "ingredient_groups": [
+      {
+        "name": "",
+        "ingredients": [
+          {
+            "amount": "1",
+            "unit": "l",
+            "name": "Milch",
+            "notes": ""
+          },
+          {
+            "amount": "120",
+            "unit": "g",
+            "name": "Weichweizengrieß",
+            "notes": ""
+          },
+          {
+            "amount": "2",
+            "unit": "EL",
+            "name": "Zucker",
+            "notes": ""
+          },
+          {
+            "amount": "300",
+            "unit": "g",
+            "name": "Beeren",
+            "notes": "tiefgekühlt"
+          },
+          {
+            "amount": "2",
+            "unit": "TL",
+            "name": "Vanillezucker",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  }
+]
